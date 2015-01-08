@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ROBBINS</Machine>
+    <WindowsUser>robbins</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>03963188-1082-4a93-9244-708d6e089017</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>35AB8AA63950D888E2E69E072A6AF4DDBA4CE51A240FCE36E2B329DB65739DC0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>03963188-1082-4a93-9244-708d6e089017_1.0.0.0_neutral__9zd5dx355h3a0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>03963188-1082-4a93-9244-708d6e089017_9zd5dx355h3a0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>03963188-1082-4a93-9244-708d6e089017</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=robbins</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-07T22:46:09.875</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\bin\Debug\Game.exe">
+      <PackagePath>Game.exe</PackagePath>
+      <Modified>2015-01-07T22:46:09.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-04T08:10:24.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-04T08:01:18.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T14:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-01-03T19:51:47.235</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\bin\Debug\Home.xbf">
+      <PackagePath>Home.xbf</PackagePath>
+      <Modified>2015-01-04T19:08:09.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-01-04T19:08:09.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\bin\Debug\Play.xbf">
+      <PackagePath>Play.xbf</PackagePath>
+      <Modified>2015-01-05T07:23:10.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\bin\Debug\Game.xr.xml">
+      <PackagePath>Game.xr.xml</PackagePath>
+      <Modified>2015-01-05T04:50:00.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\robbins\Documents\Visual Studio 2013\Projects\Game\Game\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-07T22:46:09.618</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
